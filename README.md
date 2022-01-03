@@ -1,5 +1,5 @@
 ### 7. 하이퍼링크
-[PCWK Cafe](http://cafe.daum.ne/pcwk,"설명문구")
+[PCWK Cafe](http://cafe.daum.net/pcwk,"설명문구")
 
 
 ### 6. 가로선  
