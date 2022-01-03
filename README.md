@@ -1,5 +1,23 @@
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:------:|:------|:------|------:|:------|:------|
+|1|james|이상무|1|james1@paran.com|16:08|
+|2|**james**|이상무|1|james2@paran.com|16:08|
+|3|james|이상무|1|james3@paran.com|16:08|
+|4|james|이상무|1|james4@paran.com|16:08|
+|5|james|이상무|1|james5@paran.com|16:08|
+
+### 9. 이미지 삽입
+![PCWK Cafe](http://github.com/hykim-king/MARKDOWN_EDU/blob/main/duke.png "설명문구")
+
+
+### 8. 강조
+Spring을 만끽하세요.  
+**Spring**을 만끽하세요.
+
+
 ### 7. 하이퍼링크
-[PCWK Cafe](http://cafe.daum.net/pcwk,"설명문구")
+[PCWK Cafe](https://cafe.daum.net/pcwk/ "설명문구")
 
 
 ### 6. 가로선  
